@@ -1,6 +1,8 @@
-# Arise Cloud Solutions ⚔️
+<div align="center">
+  <img src="../assets/logo.png" alt="Arise Cloud Solutions Logo" width="100" height="100" style="border-radius: 50%" />
+</div>
 
-
+# Arise Cloud Solutions
 
 **Battle-ready DevOps, cloud-native, open-source-first, cost-efficient.**
 
